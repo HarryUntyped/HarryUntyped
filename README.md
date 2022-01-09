@@ -1,4 +1,4 @@
-## Harry #harrynoob
+## Intro
 Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the Chinese University of Hong Kong. I love learning computer science, video game programming, and anything about a computer.
 
 ## 🤓 My values
