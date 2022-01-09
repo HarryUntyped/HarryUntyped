@@ -28,7 +28,7 @@ Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the C
 - A Monopoly-like game written in Rust with Godot engine
 
 
-**Coding with command block is awesome:**
+**Coding with command blocks is awesome:**
 
 ![Minecraft command block programming is in another level](https://i.kym-cdn.com/photos/images/original/001/340/291/07b.jpg)
 
