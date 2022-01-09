@@ -11,9 +11,15 @@ Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the C
 
 ## 🧠 Languages that I know and use
 ### Web
-- HTML5, CSS3, Javascript
+- HTML5
+- CSS3
+- Javascript
 ### Software
-- Python, C/C++, Rust, Java, Pascal
+- Python
+- C/C++
+- Rust
+- Java
+- Pascal
 
 ## 💡 Projects
 - Minesweeper in Pascal
@@ -21,7 +27,7 @@ Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the C
 - Elevator Simulator
 - A Monopoly-like game written in Rust with Godot engine
 
-<--
+<!--
 ## 🔗 Get in touch
 - Personal site: 
 - Dev.to: 
