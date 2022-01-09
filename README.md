@@ -23,7 +23,7 @@ Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the C
 
 ## 💡 Projects
 - Minesweeper in Pascal
-- A telegram/discord bot
+- Telegram/discord bots
 - Elevator Simulator
 - A Monopoly-like game written in Rust with Godot engine
 
