@@ -1,9 +1,33 @@
-### Hi there 👋
+## Harry #harrynoob
+Hi, I'm Harry! I am a student in the Faculty of Information Engineering at the Chinese University of Hong Kong. I love learning computer science, video game programming, and anything about a computer.
 
-<!--
-**harrynoob/harrynoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+💨 High capability and adaptability<br>
 
-Here are some ideas to get you started:
+## 🌱 Goals
+- Make indie games
+- Learn more hardware knowledge
+
+## 🧠 Languages that I know and use
+### Web
+- HTML5, CSS3, Javascript
+### Software
+- Python, C/C++, Rust, Java, Pascal
+
+## 💡 Projects
+- Minesweeper in Pascal
+- A telegram/discord bot
+- Elevator Simulator
+- A Monopoly-like game written in Rust with Godot engine
+
+<--
+## 🔗 Get in touch
+- Personal site: 
+- Dev.to: 
+- StackOverflow: 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
